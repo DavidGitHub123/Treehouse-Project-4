@@ -8,8 +8,11 @@ $body: #777;
 $link: #51ddfc;
 $quote: purple;
 
-$link-light: lighten($head1, 50%);
-
+$head1-light: lighten($head1, 25%);
+$head2-light: lighten($head2, 25%);
+$body-light: lighten($body, 25%);
+$link-light: lighten($link, 25%);
+$quote-light: lighten($quote, 25%);
 
 
 /* ============================================= */

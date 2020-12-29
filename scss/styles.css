@@ -417,23 +417,23 @@ legend {
 }
 
 .default {
-  background-color: #51ddfc;
+  background-color: #404040;
 }
 
 .error {
-  background-color: #e4757a;
+  background-color: #80d998;
 }
 
 .info {
-  background-color: #927bc1;
+  background-color: #b7b7b7;
 }
 
 .success {
-  background-color: #63cc82;
+  background-color: #cef5fe;
 }
 
 .warning {
-  background-color: #fd7856;
+  background-color: #ff01ff;
 }
 
 /* ============================================= */
@@ -450,7 +450,7 @@ legend {
   margin: 10px auto 0;
   border: none;
   padding: 10px;
-  border-bottom: 5px solid #58e1c1;
+  border-bottom: 5px solid #51ddfc;
 }
 
 .hidden {
@@ -485,14 +485,14 @@ legend {
   margin: 0 .25em;
   display: block;
   width: 100%;
-  border: 1px blue solid;
+  border: 3px purple solid;
   -webkit-transition: background-color .2s ease-in-out,  color .2s ease-in-out;
   transition: background-color .2s ease-in-out,  color .2s ease-in-out;
 }
 
 .nav-link:hover {
   color: #51ddfc;
-  background-color: gray;
+  background-color: #cef5fe;
 }
 
 /* ============================================= */
@@ -514,7 +514,7 @@ legend {
   margin-top: 10px;
   max-width: 100%;
   padding: 13px;
-  border: 1px solid #ccc;
+  border: 5px solid #32a852;
 }
 
 .img-logo {
